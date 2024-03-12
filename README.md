@@ -5,7 +5,7 @@
   Readme File. Everything there is to know about this awesome selfbot.
 -->
 <div align="center">
-  <h1 align="center">~ Discord Selfbot ~</h1>
+  <h1 align="center">~ Own @Hanoko - New selfbot with 150 Commands ~</h1>
   <strong>A selfbot for Discord that is setup and ready to go in less than 5 minutes.</strong><br />(If you already have the required programs installed)<br /><br />
   <p align="center">
     <a href="https://github.com/feross/standard"><img src="https://cdn.rawgit.com/feross/standard/master/badge.svg"></a>
